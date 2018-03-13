@@ -1,5 +1,5 @@
 # shortcut_creativity
-## 2018-ICS-Creative research practice-Team shortcut
+## 2018-ISC-Creative research practice-Team shortcut
 ### Project Log
 ****
 
