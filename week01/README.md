@@ -27,4 +27,4 @@
   - 정신 장애 관련 프로젝트 적다
   - Community 관련 프로젝트 적다
 
-<img src="4.jpeg" style="width: 200px">
+<img src="4.jpeg" style="width: 150px">
