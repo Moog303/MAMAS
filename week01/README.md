@@ -26,5 +26,3 @@
   - 소프트웨어 관련 프로젝트 : 절대적 개수는 적지만, Backer가 많고 보통 펀딩에 성공
   - 정신 장애 관련 프로젝트 적다
   - Community 관련 프로젝트 적다
-
-<img src="4.jpeg" style="width: 150px">
