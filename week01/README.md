@@ -13,7 +13,7 @@
 <img src="1.jpeg" style="width: 200px;">
 
 - **디자인 방향 제시 : 크라우드 소싱, 플랫폼 형태의 서비스**
-
+****
 ## 18/03/12 Meeting #2
 ### 키워드 재추출 및 데이터 셋 재분석
 - 기존의 Buehler 외, 논문에서 제시된 키워드는 Thingiverse 커뮤니티 중심의 키워드
@@ -27,4 +27,4 @@
   - 정신 장애 관련 프로젝트 적다
   - Community 관련 프로젝트 적다
 
-<img src="4.jpeg">
+<img src="4.jpeg" style="width: 200px">
