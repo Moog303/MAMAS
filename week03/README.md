@@ -75,6 +75,9 @@
 - 시각장애인을 위한 SNS 사진 업로드 시스템
 - 불안장애인을 위한 촉각 피드백 시스템이 선정됨
 
+## 아이디어 Present Slides
+[Google Slides] (https://docs.google.com/presentation/d/1HLdN3Yn_pPqtCc7oNZdeBC65Df0oBv8V4UJicKpPdkU/edit?usp=sharing)
+
 
 ```python
 
