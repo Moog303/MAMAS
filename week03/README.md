@@ -76,7 +76,7 @@
 - 불안장애인을 위한 촉각 피드백 시스템이 선정됨
 
 ## 아이디어 Present Slides
-[Google Slides] (https://docs.google.com/presentation/d/1HLdN3Yn_pPqtCc7oNZdeBC65Df0oBv8V4UJicKpPdkU/edit?usp=sharing)
+- [Google Slides](https://docs.google.com/presentation/d/1HLdN3Yn_pPqtCc7oNZdeBC65Df0oBv8V4UJicKpPdkU/edit?usp=sharing)
 
 
 ```python
