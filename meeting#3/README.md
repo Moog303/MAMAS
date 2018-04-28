@@ -1,5 +1,5 @@
 
-## Meeting #3 [25/03/08]: Ideation
+## Meeting #3 [18/03/25]: Ideation
 
 ### 기말 연구 주제 선정을 위한 1차 아이디에이션
 
@@ -9,7 +9,7 @@
 
 - 개발된 아이디어를 1-3군으로 나누고 1군 중 5개 선정
 
-<img src="whiteboard0.jpeg" style="width: 200px;">
+<img src="img/whiteboard0.jpeg" style="width: 200px;">
 
 ## 아이디어 리스팅
 
@@ -36,7 +36,7 @@
     - 본인이 하루 중 어떤 일이 있었는지 객관적 사실을 기술하고, 이에 대한 자신의 감정을 탐구하게 함으로써 자존감을 키우고, 우울성향을 극복할 수 있도록 도와주는 시스템
     - 하루 중 있었던 일을 셀프리포팅 하면 지인에게 알람이 가거나 본인이 문답을 통해 천천히 self-reflection 가능
 
-<img src="whiteboard1.jpeg" style="width: 200px;">
+<img src="img/whiteboard1.jpeg" style="width: 200px;">
 
 - 시각장애인용 스포츠 중계 시스템 (성진)
     - 움직이는 선수 모형이나 움직이는 점자 중계 테이블을 사용해서 시각장애인이 만지며 축구경기장의 선수 배치를 실시간으로 알 수 있게 하는 시스템

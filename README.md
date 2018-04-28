@@ -3,5 +3,6 @@
 ### Project Log
 ****
 
-- [week01](https://github.com/Moog303/shortcut_creativity/tree/master/week01)
-- [week03](https://github.com/Moog303/shortcut_creativity/tree/master/week03)
+- [Meeting #1](https://github.com/Moog303/shortcut_creativity/tree/master/meeting#1)
+- [Meeting #2](https://github.com/Moog303/shortcut_creativity/tree/master/meeting#2)
+- [Meeting #3](https://github.com/Moog303/shortcut_creativity/tree/master/meeting#3)
