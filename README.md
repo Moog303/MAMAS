@@ -3,6 +3,6 @@
 ### Project Log
 ****
 
-- [Meeting #1](https://github.com/Moog303/shortcut_creativity/tree/master/meeting#1)
-- [Meeting #2](https://github.com/Moog303/shortcut_creativity/tree/master/meeting#2)
-- [Meeting #3](https://github.com/Moog303/shortcut_creativity/tree/master/meeting#3)
+- [Meeting #1](https://github.com/Moog303/shortcut_creativity/tree/master/meeting%231)
+- [Meeting #2](https://github.com/Moog303/shortcut_creativity/tree/master/meeting%232)
+- [Meeting #3](https://github.com/Moog303/shortcut_creativity/tree/master/meeting%233)
