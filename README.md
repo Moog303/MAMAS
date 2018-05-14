@@ -8,3 +8,5 @@
 - [Week05](https://github.com/Moog303/shortcut_creativity/tree/master/Week05)
 - [Week06](https://github.com/Moog303/shortcut_creativity/tree/master/Week06)
 - [Week07](https://github.com/Moog303/shortcut_creativity/tree/master/Week07)
+- [Week08](https://github.com/Moog303/shortcut_creativity/tree/master/Week08)
+- [Week09](https://github.com/Moog303/shortcut_creativity/tree/master/Week09)
