@@ -2,7 +2,7 @@
 ## 2018-ISC-Creative research practice-
 ### Team shortcut
 
-<img src="/img/front.jpeg" style="width: 200px;">
+<img src="/img/front.jpeg" style="width: 50px;">
 
 ****
 
