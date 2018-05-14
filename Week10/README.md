@@ -25,13 +25,13 @@
 
 <img src="/img/26.jpeg" style="width: 200px;">
 
- 1. 음성 시그널
+ 1. **음성 시그널**
  - 스마트폰의 마이크 + Google SpeechToText API를 이용하여 음성 데이터를 문자화 하고, 감정 키워드 추출 가능
 
- 2. Magnetometer
+ 2. **Magnetometer**
  - 쇠 숟가락에 자석을 부착하여 스마트폰의 Magnetometer를 활용한 트래킹 가능. 숟가락이 식판에 가까이 왔다가 떨어지는 패턴을 분석할 수 있고 자기장 변화량에 따라 어떤 구역으로 움직였는지까지 트래킹할 수 있는 가능성이 있음
 
 <img src="/img/25.jpeg" style="width: 200px;">
 
- 3. 식사 시간 정보
+ 3. **시간**
  - 이 부분은 사용자가 식사 세션이 시작되고 끝날 때 Input을 제공해 줌으로써 트래킹 가능
