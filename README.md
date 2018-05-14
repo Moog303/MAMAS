@@ -1,8 +1,6 @@
 # shortcut_creativity
-## 2018-ISC-Creative research practice-
-### Team shortcut
-
-<img src="/img/front.jpeg" style="width: 10px;">
+## 2018 SNU ISC Creative Research Practice
+### Team 짧은머리 a.k.a. ShortCut
 
 ****
 
