@@ -15,7 +15,7 @@
 
 	3. 언어 사용 
 
-	<img src="/img/27.png" style="width: 200px;">
+	<img src="/img/27.png" style="width: 100px;">
 		
 	- P : 긍정 단어 수, T : 전체 단어 수, N : 부정 단어 수
 	- 긍정 언어와 전체 대화양이 많을 수록, 부정적인 언어가 적을 수록 높은 점수 받도록 구성
