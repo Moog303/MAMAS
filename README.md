@@ -14,3 +14,4 @@
 - [Week10 - 프로토타입 기술 리서치](https://github.com/Moog303/shortcut_creativity/tree/master/Week10)
 - [Week11 - 시나리오별 상황 정의](https://github.com/Moog303/shortcut_creativity/tree/master/Week11)
 - [Week12 - Quantify 알고리즘 및 UI 개선](https://github.com/Moog303/shortcut_creativity/tree/master/Week12)
+- [Week13 - Magnetometer Sensing App 개발 및 실험 준비](https://github.com/Moog303/shortcut_creativity/tree/master/Week13)
