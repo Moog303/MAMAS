@@ -10,7 +10,7 @@
 
 - **실제 실험을 위한 Magnetometer Sensing App 개발**
 	
-		<img src="/img/29.jpeg" style="width: 200px;">
+	<img src="/img/29.jpeg" style="width: 200px;">
 
 	- 네오디움 자석과 스마트폰의 지자기센서를 이용하여 스마트폰 주변 영역을 인지하는 알고리즘 및 Working Application 개발
 
