@@ -22,7 +22,9 @@
 		- 아동의 기본 정보 및 평소 식습관 및 식사 만족도 조사
 
 	2. MAMAS 기본 컨셉 설명
+
 		<img src="/img/2.gif" style="width: 400px;">
+		
 		- 컨셉 설명을 위한 Introduction 영상 제작
 	
 	3. 사후 인터뷰
