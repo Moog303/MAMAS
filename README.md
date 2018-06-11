@@ -15,3 +15,4 @@
 - [Week11 - 시나리오별 상황 정의](https://github.com/Moog303/shortcut_creativity/tree/master/Week11)
 - [Week12 - Quantify 알고리즘 및 UI 개선](https://github.com/Moog303/shortcut_creativity/tree/master/Week12)
 - [Week13 - Magnetometer Sensing App 개발 및 실험 준비](https://github.com/Moog303/shortcut_creativity/tree/master/Week13)
+- [Week14 - 실험 피드백 반영 및 최종 발표 준비](https://github.com/Moog303/shortcut_creativity/tree/master/Week13)
