@@ -17,7 +17,9 @@
 	1. 사전 설문 조사 
 		- 아동의 기본 정보 및 평소 식습관 및 식사 만족도 조사
 	2. MAMAS 기본 컨셉 설명
-		<img src="/img/29.jpeg" style="width: 200px";>
+		
+		<img src="/img/30.jpeg" style="width: 200px;">
+		
 		- 컨셉 설명을 위한 Introduction 영상 제작
 	3. 사후 인터뷰
 		- 시스템에 대한 전반적인 평가
