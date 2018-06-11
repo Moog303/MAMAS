@@ -10,7 +10,7 @@
 
 - **실제 실험을 위한 Magnetometer Sensing App 개발**
 	
-	<img src="/img/1.gif" style="width: 200px;">
+	<img src="/img/1.gif" style="width: 400px;">
 
 	- 네오디움 자석과 스마트폰의 지자기센서를 이용하여 스마트폰 주변 영역을 인지하는 알고리즘 및 Working Application 개발
 
@@ -19,7 +19,7 @@
 		- 아동의 기본 정보 및 평소 식습관 및 식사 만족도 조사
 	2. MAMAS 기본 컨셉 설명
 		
-		<img src="/img/30.jpeg" style="width: 200px;">
+		<img src="/img/2.gif" style="width: 400px;">
 		
 		- 컨셉 설명을 위한 Introduction 영상 제작
 	3. 사후 인터뷰
