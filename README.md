@@ -4,7 +4,9 @@
 
 ****
 	
-- <img src="/img/30.png" style="width: 400px;">
+<p>
+<img src="/img/30.png" style="width: 400px;"/>
+</p>
 
 - [Week01 - 현재 AT 기술 관련 연구, 프로젝트 현황 리서치](https://github.com/Moog303/shortcut_creativity/tree/master/Week01)
 - [Week03 - 프로젝트 아이디어 발표 준비](https://github.com/Moog303/shortcut_creativity/tree/master/Week03)
