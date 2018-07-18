@@ -13,3 +13,5 @@ Children's problematic eating behavior is one of the biggest problems parents su
 
 
 - [Project Log](https://github.com/Moog303/shortcut_creativity/tree/master/Project_log)
+- [Speech Recognition and NLP](https://github.com/Moog303/shortcut_creativity/tree/master/SR_NLP)
+- [Magnetic Field Sensing](https://github.com/Moog303/shortcut_creativity/tree/master/Mag)
