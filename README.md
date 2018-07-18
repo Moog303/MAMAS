@@ -1,25 +1,15 @@
 ## 2018 SNU ISC Creative Research Practice
 ### MAMAS - Team ShortCut (짧은머리)
-#### MAMAS has been accepted to appear at ASSETS2018
+
 ****
 	
 <p>
 <img src="/img/30.png" style="width: 400px;"/>
 </p>
 
-<p>
-Children's problematic eating behavior is one of the biggest problems parents suffer from. Even though the role of parents in building children’s eating habit is critical, it is very difficult for parents to continue on the positive interaction with children during mealtime. We describe our setup to provide systematic analysis of parent-child mealtime interaction, so as to promote children’s healthy eating habits. We propose an application called MAMAS, a mealtime assistant using magnetometer and speech recognition, which 1) noninvasively tracks mealtime interaction patterns, 2) augments analysis with self-reported data and quantification, and 3) provides data-assisted analysis for parents’ self-reflection.
-</p>
+### MAMAS has been accepted to appear at ASSETS2018
 
-- [Week01 - 현재 AT 기술 관련 연구, 프로젝트 현황 리서치](https://github.com/Moog303/shortcut_creativity/tree/master/Week01)
-- [Week03 - 프로젝트 아이디어 발표 준비](https://github.com/Moog303/shortcut_creativity/tree/master/Week03)
-- [Week05 - 아이디어 Formative Study; 1차 발표 준비](https://github.com/Moog303/shortcut_creativity/tree/master/Week05)
-- [Week06 - 아이디어 수정 및 2차 발표 준비](https://github.com/Moog303/shortcut_creativity/tree/master/Week06)
-- [Week07 - 2차 발표 피드백 반영](https://github.com/Moog303/shortcut_creativity/tree/master/Week07)
-- [Week08 - 최종 아이디어 및 MVP Sketch](https://github.com/Moog303/shortcut_creativity/tree/master/Week08)
-- [Week09 - 프로토타입 디자인 계획](https://github.com/Moog303/shortcut_creativity/tree/master/Week09)
-- [Week10 - 프로토타입 기술 리서치](https://github.com/Moog303/shortcut_creativity/tree/master/Week10)
-- [Week11 - 시나리오별 상황 정의](https://github.com/Moog303/shortcut_creativity/tree/master/Week11)
-- [Week12 - Quantify 알고리즘 및 UI 개선](https://github.com/Moog303/shortcut_creativity/tree/master/Week12)
-- [Week13 - Magnetometer Sensing App 개발 및 실험 준비](https://github.com/Moog303/shortcut_creativity/tree/master/Week13)
-- [Week14 - 실험 피드백 반영 및 최종 발표 준비](https://github.com/Moog303/shortcut_creativity/tree/master/Week14)
+Children's problematic eating behavior is one of the biggest problems parents suffer from. Even though the role of parents in building children’s eating habit is critical, it is very difficult for parents to continue on the positive interaction with children during mealtime. We describe our setup to provide systematic analysis of parent-child mealtime interaction, so as to promote children’s healthy eating habits. We propose an application called MAMAS, a mealtime assistant using **magnetometer and speech recognition**, which *1) noninvasively tracks mealtime interaction patterns, 2) augments analysis with self-reported data and quantification, and 3) provides data-assisted analysis for parents’ self-reflection*.
+
+
+- [Project Log](https://github.com/Moog303/shortcut_creativity/tree/master/Project_log)
