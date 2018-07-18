@@ -1,0 +1,1 @@
+### Core 2 : Using Magetometer To tracking children's picky eating
